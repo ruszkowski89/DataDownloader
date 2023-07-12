@@ -1,0 +1,1 @@
+To run project and see sample data please run `demo.sh` script using `./demo.sh' command.
